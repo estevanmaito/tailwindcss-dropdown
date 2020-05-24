@@ -4,8 +4,8 @@ module.exports = {
     global: {
       branches: 100,
       functions: 0,
-      lines: 50,
-      statements: 50,
+      lines: 25,
+      statements: 25,
     },
   },
   setupFilesAfterEnv: ['./jest/customMatchers.js'],
