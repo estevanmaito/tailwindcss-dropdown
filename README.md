@@ -3,7 +3,7 @@
 <p>
   <a href="https://codecov.io/gh/estevanmaito/tailwindcss-dropdown"><img src="https://codecov.io/gh/estevanmaito/tailwindcss-dropdown/branch/master/graph/badge.svg" alt="codecov" /></a>
   <a href="https://travis-ci.com/github/estevanmaito/tailwindcss-dropdown"><img src="https://img.shields.io/travis/estevanmaito/tailwindcss-dropdown" alt="Travis (.org)" /></a>
-  <a href="https://www.npmjs.com/package/mytailwindcss-dropdown"><img src="https://img.shields.io/npm/v/tailwindcss-dropdown" alt="npm" /></a>
+  <a href="https://www.npmjs.com/package/tailwindcss-dropdown"><img src="https://img.shields.io/npm/v/tailwindcss-dropdown" alt="npm" /></a>
   <a href="https://github.com/estevanmaito/tailwindcss-dropdown/blob/master/LICENSE"><img src="https://img.shields.io/github/license/estevanmaito/tailwindcss-dropdown" alt="MIT License" /></a>
 </p>
 
