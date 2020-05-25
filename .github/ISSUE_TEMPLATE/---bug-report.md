@@ -17,7 +17,7 @@ assignees: ''
 
 -->
 
-- `tailwindcss-markdown` version:
+- `tailwindcss-dropdown` version:
 - Are you using plugins? Which?
 
 ### Relevant code or config:
