@@ -9,6 +9,8 @@
 
 A plugin to create accessible, JavaScript free dropdowns with Tailwind CSS. This is not a component (although you can use the examples below as a blueprint).
 
+[🧪 See it live on CodeSandbox](https://codesandbox.io/s/tailwind-css-dropdown-plugin-y8n6w?file=/public/index.html)
+
 ## 💿 Install
 
 ```sh
@@ -63,6 +65,8 @@ Note that `dropdown:block` must contain a `ul` as child. The same could be done 
   </ul>
 </button>
 ```
+
+[More examples on CodeSandbox](https://codesandbox.io/s/tailwind-css-dropdown-plugin-y8n6w?file=/public/index.html)
 
 ## 🧙‍♂️ How it works?
 
